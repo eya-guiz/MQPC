@@ -2,7 +2,7 @@
 Running scripts for implementation of Model Predictive Quantum Control
 
 Implemented Schemes:
-- Uncontrained
+- Terminal Eqaulity Contraint (TEC) Free, only input constraints
 - Terminal Eqaulity Contraint (TEC)
 - Tracking
 
